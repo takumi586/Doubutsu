@@ -26,3 +26,4 @@ class Board {
       koma.kStat.selected=false;
     }
   }
+}
